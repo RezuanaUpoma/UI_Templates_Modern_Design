@@ -86,6 +86,10 @@ Click on Category name to directly skip to that Category<br>
       <td><a href="#weather">Weather</a></td>
       <td>Weather reports</td>
     </tr>
+    <tr>
+      <td><a href="#weather">Website</a></td>
+      <td>Weather reports</td>
+    </tr>
   </tbody>
 </table>
 
