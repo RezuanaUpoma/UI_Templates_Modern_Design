@@ -87,8 +87,8 @@ Click on Category name to directly skip to that Category<br>
       <td>Weather reports</td>
     </tr>
     <tr>
-      <td><a href="#weather">Website</a></td>
-      <td>Weather reports</td>
+      <td><a href="#website">Website</a></td>
+      <td>Moder Website Designs</td>
     </tr>
   </tbody>
 </table>
@@ -285,6 +285,20 @@ Click on Category name to directly skip to that Category<br>
   <hr>
 
 ## Weather
+
+  <p float="left">
+  <img src="https://cdn.dribbble.com/users/498270/screenshots/11435940/media/e07211b33eaf38547b014277c184614f.jpg"  height="49%" width="49%">
+  <img src="https://cdn.dribbble.com/users/3681220/screenshots/7119800/media/e6b22b74932fe92606ad502441a180e0.png" height="49%" width="49%">
+  </p>
+  
+  <p float="left">
+  <img src="https://cdn.dribbble.com/users/1852987/screenshots/10179352/media/f7047cab0407a96ce62093e15c6ebde6.png"  height="49%" width="49%">
+  <img src="https://cdn.dribbble.com/users/702789/screenshots/6932038/weather_-_shot_4x.png" height="49%" width="49%">
+  </p>
+
+  <hr>
+
+  ## Websites
 
   <p float="left">
   <img src="https://cdn.dribbble.com/users/498270/screenshots/11435940/media/e07211b33eaf38547b014277c184614f.jpg"  height="49%" width="49%">
