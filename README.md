@@ -298,16 +298,16 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Websites
+  ## Website
 
   <p float="left">
-  <img src="https://cdn.dribbble.com/users/498270/screenshots/11435940/media/e07211b33eaf38547b014277c184614f.jpg"  height="49%" width="49%">
-  <img src="https://cdn.dribbble.com/users/3681220/screenshots/7119800/media/e6b22b74932fe92606ad502441a180e0.png" height="49%" width="49%">
+  <img src="web.jpg"  height="49%" width="49%">
+  <img src="web2.png" height="49%" width="49%">
   </p>
   
   <p float="left">
-  <img src="https://cdn.dribbble.com/users/1852987/screenshots/10179352/media/f7047cab0407a96ce62093e15c6ebde6.png"  height="49%" width="49%">
-  <img src="https://cdn.dribbble.com/users/702789/screenshots/6932038/weather_-_shot_4x.png" height="49%" width="49%">
+  <img src="web3.png"  height="49%" width="49%">
+  <img src="web4.png" height="49%" width="49%">
   </p>
 
   <hr>
