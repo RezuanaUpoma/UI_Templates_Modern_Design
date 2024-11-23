@@ -3,141 +3,61 @@
 Click on Category name to directly skip to that Category<br>
 
 <table class="nice-table">
-    <tbody>
-      <tr>
-        <th>Category</th>
-        <th>Examples</th>
-      </tr>
-      <tr>
-        <td><a href="#art-and-design">Art &amp; Design</a></td>
-        <td>Sketchbooks, painter tools, art &amp; design tools, coloring books</td>
-      </tr>
-      <tr>
-        <td><a href="#auto-and-vehicles">Auto &amp; Vehicles</a></td>
-        <td>Auto shopping, auto insurance, auto price comparison, road safety, auto reviews &amp; news</td>
-      </tr>
-      <tr>
-        <td><a href="#beauty">Beauty</a></td>
-        <td>Makeup tutorials, makeover tools, hair styling, beauty shopping, makeup simulators</td>
-      </tr>
-      <tr>
-        <td><a href="#books-and-reference">Books &amp; Reference</a></td>
-        <td>Book readers, reference books, text books, dictionaries, thesaurus, wikis</td>
-      </tr>
-      <tr>
-        <td><a href="#business">Business</a></td>
-        <td>Document editor/reader, package tracking, remote desktop, email management, job search</td>
-      </tr>
-      <tr>
-        <td><a href="#comics">Comics</a></td>
-        <td>Comic players, comic titles</td>
-      </tr>
-      <tr>
-        <td><a href="#communications">Communications</a></td>
-        <td>Messaging, chat/IM, dialers, address books, browsers, call management</td>
-      </tr>
-      <tr>
-        <td><a href="#dating">Dating</a></td>
-        <td>Matchmaking, courtship, relationship building, meeting new people, finding love</td>
-      </tr>
-      <tr>
-        <td><a href="#education">Education</a></td>
-        <td>Exam preparations, study-aids, vocabulary, educational games, language learning</td>
-      </tr>
-      <tr>
-        <td><a href="#entertainment">Entertainment</a></td>
-        <td>Streaming video, Movies, TV, interactive entertainment</td>
-      </tr>
-      <tr>
-        <td><a href="#events">Events</a></td>
-        <td>Concert tickets, sporting event tickets, ticket resales, movie tickets</td>
-      </tr>
-      <tr>
-        <td><a href="#finance">Finance</a></td>
-        <td>Banking, payment, ATM finders, financial news, insurance, taxes, portfolio/trading, tip calculators</td>
-      </tr>
-      <tr>
-        <td><a href="#food-and-drink">Food &amp; Drink</a></td>
-        <td>Recipes, restaurants, food guides, wine tasting &amp; discovery, beverage recipes</td>
-      </tr>
-      <tr>
-        <td><a href="#health-and-fitness">Health &amp; Fitness</a></td>
-        <td>Personal fitness, workout tracking, diet and nutritional tips, health &amp; safety, etc.</td>
-      </tr>
-      <tr>
-        <td><a href="#house-and-home">House &amp; Home</a></td>
-        <td>House &amp; apartment search, home improvement, interior decoration, mortgages, real estate</td>
-      </tr>
-      <tr>
-        <td><a href="#libraries-and-demo">Libraries &amp; Demo</a></td>
-        <td>Software libraries, technical demos</td>
-      </tr>
-      <tr>
-        <td><a href="#lifestyle">Lifestyle</a></td>
-        <td>Style guides, wedding &amp; party planning, how-to guides</td>
-      </tr>
-      <tr>
-        <td><a href="#maps-and-navigation">Maps &amp; Navigation</a></td>
-        <td>Navigation tools, GPS, mapping, transit tools, public transportation</td>
-      </tr>
-      <tr>
-        <td><a href="#medical">Medical</a></td>
-        <td>Drug &amp; clinical references, calculators, handbooks for health-care providers, medical journals &amp; news</td>
-      </tr>
-      <tr>
-        <td><a href="#music-and-audio">Music &amp; Audio</a></td>
-        <td>Music services, radios, music players</td>
-      </tr>
-      <tr>
-        <td><a href="#news-and-magazines">News &amp; Magazines</a></td>
-        <td>Newspapers, news aggregators, magazines, blogging</td>
-      </tr>
-      <tr>
-        <td><a href="#parenting">Parenting</a></td>
-        <td>Pregnancy, infant care &amp; monitoring, childcare</td>
-      </tr>
-      <tr>
-        <td><a href="#personalization">Personalization</a></td>
-        <td>Wallpapers, live wallpapers, home screen, lock screen, ringtones</td>
-      </tr>
-      <tr>
-        <td><a href="#photography">Photography</a></td>
-        <td>Cameras, photo editing tools, photo management and sharing</td>
-      </tr>
-      <tr>
-        <td><a href="#productivity">Productivity</a></td>
-        <td>Notepad, to do list, keyboard, printing, calendar, backup, calculator, conversion</td>
-      </tr>
-      <tr>
-        <td><a href="#shopping">Shopping</a></td>
-        <td>Online shopping, auctions, coupons, price comparison, grocery lists, product reviews</td>
-      </tr>
-      <tr>
-        <td><a href="#social">Social</a></td>
-        <td>Social networking, check-in</td>
-      </tr>
-      <tr>
-        <td><a href="#sports">Sports</a></td>
-        <td>Sports news &amp; commentary, score tracking, fantasy team management, game coverage</td>
-      </tr>
-      <tr>
-        <td><a href="#tools">Tools</a></td>
-        <td>Tools for Android devices</td>
-      </tr>
-      <tr>
-        <td><a href="#travel-and-local">Travel &amp; Local</a></td>
-        <td>Trip booking tools, ride sharing, taxis, city guides, local business information, trip management tools, tour booking</td>
-      </tr>
-      <tr>
-        <td><a href="#video-players-and-editors">Video Players &amp; Editors</a></td>
-        <td>Video players, video editors, media storage</td>
-      </tr>
-      <tr>
-        <td><a href="#weather">Weather</a></td>
-        <td>Weather reports</td>
-      </tr>
-    </tbody>
-  </table>
+  <tbody>
+    <tr>
+      <th>Category</th>
+      <th>Examples</th>
+    </tr>
+    <tr>
+      <td><a href="#beauty">Beauty</a></td>
+      <td>Makeup tutorials, makeover tools, hair styling, beauty shopping, makeup simulators</td>
+    </tr>
+    <tr>
+      <td><a href="#books-and-reference">Books &amp; Reference</a></td>
+      <td>Book readers, reference books, text books, dictionaries, thesaurus, wikis</td>
+    </tr>
+    <tr>
+      <td><a href="#business">Business</a></td>
+      <td>Document editor/reader, package tracking, remote desktop, email management, job search</td>
+    </tr>
+    <tr>
+      <td><a href="#dating">Dating</a></td>
+      <td>Matchmaking, courtship, relationship building, meeting new people, finding love</td>
+    </tr>
+    <tr>
+      <td><a href="#entertainment">Entertainment</a></td>
+      <td>Streaming video, Movies, TV, interactive entertainment</td>
+    </tr>
+    <tr>
+      <td><a href="#food-and-drink">Food &amp; Drink</a></td>
+      <td>Recipes, restaurants, food guides, wine tasting &amp; discovery, beverage recipes</td>
+    </tr>
+    <tr>
+      <td><a href="#health-and-fitness">Health &amp; Fitness</a></td>
+      <td>Personal fitness, workout tracking, diet and nutritional tips, health &amp; safety, etc.</td>
+    </tr>
+    <tr>
+      <td><a href="#music-and-audio">Music &amp; Audio</a></td>
+      <td>Music services, radios, music players</td>
+    </tr>
+    <tr>
+      <td><a href="#photography">Photography</a></td>
+      <td>Cameras, photo editing tools, photo management and sharing</td>
+    </tr>
+    <tr>
+      <td><a href="#shopping">Shopping</a></td>
+      <td>Online shopping, auctions, coupons, price comparison, grocery lists, product reviews</td>
+    </tr>
+    <tr>
+      <td><a href="#social">Social</a></td>
+      <td>Social networking, check-in</td>
+    </tr>
+    <tr>
+      <td><a href="#weather">Weather</a></td>
+      <td>Weather reports</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Beauty
 
