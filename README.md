@@ -1,5 +1,3 @@
-# UI_Templates_Modern_Design
-
 ## Categories
 
 Click on Category name to directly skip to that Category<br>
@@ -10,7 +8,10 @@ Click on Category name to directly skip to that Category<br>
         <th>Category</th>
         <th>Examples</th>
       </tr>
-      
+      <tr>
+        <td><a href="#art-and-design">Art &amp; Design</a></td>
+        <td>Sketchbooks, painter tools, art &amp; design tools, coloring books</td>
+      </tr>
       <tr>
         <td><a href="#auto-and-vehicles">Auto &amp; Vehicles</a></td>
         <td>Auto shopping, auto insurance, auto price comparison, road safety, auto reviews &amp; news</td>
